@@ -1,0 +1,10 @@
+.picture {
+	display: inline-block;
+	margin: 0 auto;
+	-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+}
+
+.bulletless {
+	list-style-type: none;
+}
